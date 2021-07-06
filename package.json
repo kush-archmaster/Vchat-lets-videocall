@@ -8,6 +8,7 @@
     "start": "node src/app.js",
     "dev": "nodemon src/app.js -e hbs,css"
   },
+  "keywords": [],
   "author": "Kushagra Upadhyay",
   "license": "ISC",
   "dependencies": {
