@@ -1,0 +1,8 @@
+- init --done
+- init first view -- done
+- Create a room id so that ppl can enter -- done
+- Add facecam ability --done
+- Add ability for user streaming --done
+- Add styling of the app --done
+- Add ability to create and send msgs
+- Add mute and stop video button
